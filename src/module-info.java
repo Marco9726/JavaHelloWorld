@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author marcosarra
+ *
+ */
+module JavaHelloWorld {
+}
